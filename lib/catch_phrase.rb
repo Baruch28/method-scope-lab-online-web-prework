@@ -1,4 +1,4 @@
 phrase = bowser
 def catch_phrase phrase
-  puts #{phrase} catch if you can
+  puts #{phrase} catch me if you can
 end
